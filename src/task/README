@@ -1,0 +1,1 @@
+LodParser.java is a main class that do all the actions. DAOService class is a class for working with DB that has its own method with Select statement result. 
